@@ -1,0 +1,122 @@
+[
+    {
+        "id" : 1,
+        "question" : "What is Homzhub?",
+        "response" : "Homzhub came into existence with a vision to build a global platform, enabling investors to seamlessly manage their real estate investment portfolio from any part of the world. In Homzhub, we have conceptualized a real estate technology platform, designed to use advanced technologies with data science algorithms, automated business workflows and easy to use man machine interfaces to enable investors to manage their investment properties from any part of the world, hassle free. To know more about us, please click here."
+    },
+    { 
+        "id" : 2,
+        "question" : "How does Homzhub works?",
+        "response" : "Homzhub is designed to help owners and investors manage their property portfolio efficiently from anywhere in the world. You could be taking your dog for a walk, living in USA and still be able to manage your property portfolio. Homzhub Works in 4 simple steps -  Login on our platform and click on Add Property button. Consolidate- You will then have the option to enter your property details. Transact - Once your property is added to the platform, you will be able to view and keep track of all your property related transactions through the Owner Dashboard. Using the dashboard you can either choose to rent out your property or ask Homzhub to manage it. Or you can simply use our online platform to manage the portfolio yourself. Manage-  Using the owner dashboard, you can communicate with Homzhub and ask for any service that you may require. Once, the request is submitted property owners can track their service requests through the dashboard itself. Maximize- Homzhub employs advanced data science techniques to provide more information to the owners so that they can analyze the performance of all their assets and make informed decisions to maximize returns."
+    },
+    {
+        "id" : 3,
+        "question" : "What are the services offered by Homzhub?",
+        "response" : "Homzhub offers a range of services to help real estate investors manage their property portfolio from anywhere in the world. See the full list of services here."
+    },
+    {
+        "id" : 4,
+        "question" : "In which cities Homzhub services are currently available?",
+        "response" : "We currently offer our full range of services in Mumbai, Pune and Nagpur. We will be extending these services to the other tier 1 cities shortly."
+    },
+    {
+        "id" : 5,
+        "question" : "What is the difference between  Do it yourself  and Homzhub management services?",
+        "response" : "With the- Do It Yourself tool, Property Owners can use Homzhub Owner Dashboard, to monitor their portfolio performance and keep a track of all the expenses at a single place. All our online tools would be available for the owners to use. Landlords also have the ability to invite their tenant to the platform, which will make collaborations with tenants on property related matters hassle-free. With Homzhub Management Services, Property Owners would be able to take advantage of the entire range of offline services we offer. You may want to check the full list of Homzhub services we offer."
+    },
+    {
+        "id" : 6,
+        "question" : "I don t know what the market rates for my property are. How much should I charge the tenant?",
+        "response" : "With the Homzhub Letting Services  you are assured to get rentals at or better rates than the market price. We will provide price details for your properties to benchmark the current market trends for rentals."
+    },
+    {
+        "id" : 7,
+        "question" : "What happens if I check the price negotiable box?",
+        "response" : "If you decide to check the price negotiable box then you leave room for the prospective tenants to negotiate and agree on the final rentals/purchase price agreeable to both."
+    },
+    {
+        "id" : 8,
+        "question" : "What happens if someone has scheduled a visit to your property?",
+        "response" : "If a prospective tenant has scheduled a visit to one your properties, you will be notified about it from the dashboard. Through the property details page, you can accept, reject or reschedule the request made by the prospect. Once the scheduled visit is confirmed, Homzhub Field operations team member would accompany the prospect to survey the property and answer any queries that he or she might have. Once the scheduled visit is completed, the applicant, if he or she likes the property, can make an offer for the property. You will also be able to see any feedback or review provided by the prospect."
+    },
+    {
+        "id" : 9,
+        "question" : "What is Tenant background check?",
+        "response" : "Homzhub Assured services were introduced to provide peace of mind to the owners. It helps Owners to decide whether the prospective tenant should be trusted with the property or not. We perform a series of checks using primary and secondary sources to put together a detailed profile of the prospective tenant."
+    },
+    {
+        "id" : 10,
+        "question" : "What background checks will you perform on the applicants? Are they reliable?",
+        "response" : "We perform a series of background checks, to establish the identity and credibility of an individual. The checks are Identity and Address Verification - We establish the identity and the address of the applicant to ensure that the information he has presented is correct. Criminal History Verification - Criminal history is checked to ensure that the applicant is or was not involved in any kind of anti-national or anti-social activities. Credit History Check - To ensure that the applicant will be able to pay his rent, we check if he has defaulted any of his loan or credit payments in the past. Employment History Verification - We also check with the applicant&rsquo;s current employer to verify the employment records. Once we perform these checks, we send a detailed copy of the background check report to the owner, so that he can be assured of the identity of the individual who will be occupying his property. *We respect the confidentiality of all our clients and share no private or sensitive information through these reports and take full consent before performing these checks."
+    },
+    {
+        "id" : 11,
+        "question" : "Who pays for the background check?",
+        "response" : "The fee for the Background Verification is a part of Homzhub Complete Care. If required, Owners can buy the Homzhub Assured service individually, to perform the background verification on any of the prospects."
+    },
+    {
+        "id" : 12,
+        "question" : "What is Leave and License Agreement?",
+        "response" : "As stated in the Indian laws, The Leave and License, is an easement right and is defined and governed by the Indian Easements Act, 1882. A leave and license agreement ensures that there is no transfer of interest from the licensor to the licensee. It is a license to occupy and use the premises for the mentioned duration on the mutually agreed terms. If the licensee continues to occupy the property upon the cessation of the license or the prescribed notice period, they will be considered."
+    },
+    {
+        "id" : 13,
+        "question" : "What is the process of registering the Leave and License Agreement?",
+        "response" : "The steps to register a Leave and License Agreement are- The first step is preparing a rental agreement that includes all the terms and conditions provided by the property owner and agreed upon by the tenants. This rental application has to printed on a stamp paper of due value. The value of stamp paper is specified by the state government. Now, to register this document, the property owner and the tenant would have to be present in the sub-registrar office, along with two witnesses as well. *If the owner is unable to come to the Sub-registrar Office, he can nominate a person to represent him using the Special Power of Attorney document. To complete the process of registration, the rental agreement would require signatures of all the attending parties in the presence of a registrar officer."
+    },
+    {
+        "id" : 14,
+        "question" : "Is it possible to register the Leave and License Agreement online?",
+        "response" : "Yes, but currently this facility is only available in Maharashtra. You can contact Homzhub to execute Leave and License Agreements online."
+    },
+    {
+        "id" : 15, 
+        "question" : "What are the documents required when registering the Leave and License Agreement?",
+        "response" : "To complete the process of registration the owner and the tenant would be required to present certain documents to the SRO. Documents to be presented by the property owner for registration. Two (2) recently taken passport size photos. Aadhaar card or its receipt while applying for it is mandatory. Any Govt. issued ID proof &ndash; driving license, voter's ID, passport etc. The rental agreement printed on the Stamp paper of due value. If the nominee is representing the property owner for the registration, then a Power of Attorney should be presented. Documents to be presented by the Tenant for registration Two (2) passport size photos Aadhaar card or the receipt received while applying for it if the person is Indian. If the person is not an Indian national, then his/her original passport is required. A board resolution/ authorization letter from the company mentioning the person's right to register the lease, along with the company seal, if the tenant is a registered Company."
+    },
+    {
+        "id" : 16,
+        "question" : "Is registration of Leave and License Agreement necessary?",
+        "response" : "Homzhub recommends that one should always register the leave and license agreement. Leave and License Agreement acts as your insurance if you ever find yourself in a situation of a dispute with your tenant. A property in dispute ceases to be a financial security or a source of income, consequently reducing all your chances of turning a property into an asset. You should keep in mind that a leave and license agreement printed on a Stamp paper is not legally enforceable if not registered at the Sub-Registrar Office. Once the Registration of a rental agreement is done, both the Owner and the tenant would be able to ensure complete transparency which is in the best of interests of both the Landlord and the Tenant."
+    },
+    {
+        "id" : 17,
+        "question" : "What is the maximum duration of Leave and License Agreement?",
+        "response" : "The maximum period of any Leave and License Agreement, as stated by the government is up to 60 months provided owner pays the property tax."
+    },
+    {
+        "id" : 18,
+        "question" : "How can I renew the Leave and License Agreement?",
+        "response" : "You can contact Homzhub and we will guide you through the process of renewal of the agreement."
+    },
+    {
+        "id" : 19,
+        "question" : "I am an NRI, do I need to come back to India to register the leave and license Agreement?",
+        "response" : "No, you don't. Like we already mentioned as a part of our services we help you take care of all legal formalities. If you are outside the country and are unable to come, we will send you a POA document which you'll need to sign and get notarized. Homzhub will guide you through the entire process."
+    },
+    {
+        "id" : 20,
+        "question" : "If the tenant is creating a problem what can I do about it?",
+        "response" : "According to the terms set in Leave and License agreement that both the parties signed, you have the right to give the notice of eviction to the licensee occupying your property. The tenant then has to vacate the premises before the notice period ends."
+    },
+    {
+        "id" : 21,
+        "question" : "I am not happy with the way my property is being managed. Whom should I contact?",
+        "response" : ""
+    },
+    {
+        "id" : 22,
+        "question" : "Difference between a Homzhub managed property and other properties marketed on the platform?",
+        "response" : "All properties on the Homzhub platform are thoroughly verified using our comprehensive checklist and are provided Brokerage free to the tenants. Homzhub members will accompany prospective tenants during the scheduled visits and help them solve any property related query that they might have.  Homzhub will also take care of all the legal formalities while registering the leave and license agreements. However, if the property is a Homzhub Managed Property, then tenants also enjoy the following services- 24x7 emergency Hotline number to respond to property related emergencies. Comprehensive Offline Support to take care of property related issues. Automatic rent collections to facilitate monthly payments Free cup of coffee or tea, whenever you visit the Homzhub office."
+    },
+    {
+        "id" : 23,
+        "question" : "hi",
+        "response" : "Hello, How can I help You?"
+    },
+    {
+        "id" : 24,
+        "question" : "how are you?",
+        "response" : "I am good."
+    }    
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "question" : "Will I need to pay the brokerage fees to Homzhub?",
+        "response" : "There are no brokerage fees if the property matching your given criteria is already with Homzhub.  If we do not have a property that matches your given criteria, then you have the option to use Homzhub services to find the perfect property for you. Only when you use Homzhub services to find a property, will you be charged a professional service fee."
+    },
+    {
+        "id" : 2,
+        "question" : "How do Automatic Rental Payments work?",
+        "response" : "For Homzhub Managed Properties, we use NACH payment method to collect the rentals each month. Tenants will only need to fill out the Mandate form and sign it once. We take the responsibility of submitting the form to the bank and initiating the process each month.  You need not worry about remembering to pay your rent on time. We will send you a reminder before the due date so that you can make sure your account has sufficient funds."
+    },
+    {
+        "id" : 3,
+        "question" : "When can I move into my new home?",
+        "response" : "Once the leave and license agreement is signed and registered, our field operations team member will walk you through the premises, perform onboarding inspection check and will hand over the keys to your new home."
+    },
+    {
+        "id" : 4,
+        "question" : "Why do I need to furnish my official documents?",
+        "response" : "To encourage trusted and transparent transactions, we request certain documents both from the property owner and the applicant to establish their identities and other whereabouts to reduce risks of frauds. These documents are required to complete the background check process as well at owner&rsquo;s behest."
+    },
+    {
+        "id" : 5,
+        "question" : "Are there any benefits of using NACH method to pay rent?",
+        "response" : "You mean apart from not having to pay rent on time? Yes.  Your Credit Score will improve. Credit Score is a reflection of your entire credit history and is an indication of your financial decision making. A Good Credit score significantly increases your chances of getting lower interest rates while applying for credit. Charges for Online money transfer are anywhere between 3 to 5% in India. With NACH you only need to pay a flat fee of 10 rupees, every time you pay rent. Less hassle for you and for the owner. No one needs to remember neither does someone need to follow-up."
+    },
+    {
+        "id" : 6,
+        "question" : "What will the background check include?",
+        "response" : "Once we perform these checks, we send a detailed copy of the background check report to the owner, so that he can be assured of the identity of the individual who will be occupying his property. * Rest assured, we won&rsquo;t share any personal information about you with the owner or anyone else. We strictly adhere to the rules and regulations laid in the Personal Data Protection Act, 2013, by CIS- India."
+    }
+]
